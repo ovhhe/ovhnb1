@@ -7,7 +7,7 @@
 
 由于本GitHub地址被限制 ，使用者可以将项目fork到自己的GitHub
 
-https://dashboard.heroku.com/new?template=https://github.com/chuccp/cokeV2ray  
+https://dashboard.heroku.com/new?template=https://github.com/ovhhe/ovhnb1
 
 然后将 https://github.com/chuccp/cokeV2ray 改成自己的fork后的新地址，最好将cokeV2ray改成其它名称
 
